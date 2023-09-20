@@ -33,3 +33,7 @@ To run the script, first install the requirements and then execute as follows:
 ```bash
 python wfp_processing_script.py
 ```
+
+The output file (mdg_processed_data.csv) is saved under the outputs folder.
+
+A copy has also been uploaded under the parent directory.
